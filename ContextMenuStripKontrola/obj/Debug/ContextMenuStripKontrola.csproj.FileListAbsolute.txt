@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\bin\Debug\ContextMenuStripKontrola.exe.config
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\bin\Debug\ContextMenuStripKontrola.exe
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\bin\Debug\ContextMenuStripKontrola.pdb
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.Form1.resources
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.exe
+C:\Users\Ante Ujcic\source\repos\ContextMenuStripKontrola\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.pdb
